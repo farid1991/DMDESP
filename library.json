@@ -1,5 +1,5 @@
 {
-    "name": "Dot Matrix Display P10 library for ESP8266.",
+    "name": "DMDESP8266",
     "keywords": "Dot Matrix, DMDESP, DMD, P10, HUB12, display",
     "description": "Arduino ESP library for Dot Matrix Display P10",
     "repository": {
