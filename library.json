@@ -1,0 +1,22 @@
+{
+    "name": "Dot Matrix Display P10 library for ESP8266.",
+    "keywords": "Dot Matrix, DMDESP, DMD, P10, HUB12, display",
+    "description": "Arduino ESP library for Dot Matrix Display P10",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/farid1991/DMDESP.git"
+    },
+    "authors": [
+        {
+            "name": "Farid Irwan",
+            "email": "farid_irwan@hotmail.com",
+            "url": "https://github.com/farid1991",
+            "maintainer": true
+        }
+    ],
+    "version": "1.1.1",
+    "frameworks": "arduino",
+    "platforms": "espressif8266",
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/farid1991/DMDESP"
+}
