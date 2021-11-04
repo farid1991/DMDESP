@@ -1,4 +1,4 @@
-# Dot Matrix Display P10 library for ESP8266.
+# DMDESP Dot Matrix Display P10 library for ESP8266.
 
 ## Library for controlling LED P10 Single Color with ESP8266
 
