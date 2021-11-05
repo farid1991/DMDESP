@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 #include <inttypes.h>
-#include <sys/pgmspace.h>
+#include <pgmspace.h>
 
 // Six byte header at beginning of FontCreator font structure, stored in PROGMEM
 struct FontHeader

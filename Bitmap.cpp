@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <stdlib.h>
 #include <string.h>
 #include <WString.h>

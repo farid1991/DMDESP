@@ -1,10 +1,9 @@
-#include "DMDESP.h"
-
+#include <Arduino.h>
 #include <stdlib.h>
 #include <string.h>
 
-#include <Arduino.h>
 #include "Bitmap.h"
+#include "DMDESP.h"
 
 DMDESP::DMDESP(int widthPanels, int heightPanels)
     : Bitmap(widthPanels * DMDESP_NUM_COLUMNS, heightPanels * DMDESP_NUM_ROWS), useDoubleBuffer(false), phase(0), fb0(0), fb1(0), displayfb(0), lastRefresh(millis())
